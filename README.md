@@ -1,17 +1,18 @@
-# Hi there! 👋  
+### Hi there! 👋  
 
-## I'm Andreii Buha, a developer eager to innovate and collaborate.<br>Welcome to my GitHub profile! 🌟
+#### I’m Andreii Buha, a software developer passionate about innovative solutions and collaboration. Welcome to my GitHub profile! 🌟  
 
-### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/andrii-buha/)
-* [Gmail](bugandreij@gmail.com)
+👯 I’m always open to collaborating on exciting projects and solving challenging problems through programming.  
 
-### 🦶🏼 My skills
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-buha/) or via [Gmail](bugandreij@gmail.com).  
 
-![Skils](https://skillicons.dev/icons?i=python,django,fastapi,docker,sqlite,postgresql,mongodb,git,html,css,bootstrap,github,linux&perline=4)  
+🦶🏼 **My skills:**  
+![Skills](https://skillicons.dev/icons?i=python,django,fastapi,docker,postgresql,mongodb,git,github,linux,,,&perline=)
 
-### ⚡ Fun fact:  
-In 2014 I stopped learning programming because I found it too burdensome. But in 2022, while working as an engineer, I hit a plateau and discovered python.
+⚡ **Fun fact**:  
+In 2014, I stopped learning programming because it felt too burdensome. However, in 2022, while working as an engineer, I hit a plateau and rediscovered my passion for coding with Python.
+
+🚀 Looking forward to connecting and collaborating!
 
 <!--
 **Asbuga/Asbuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
