@@ -8,10 +8,7 @@
 
 ### 🦶🏼 My skills
 
-![Skils](https://skillicons.dev/icons?i=python,django,fastapi,docker,sqlite,postgresql,mongodb,git,html,css,bootstrap,github&perline=4)  
-![Pandas](https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg)
-![sqlalchemy](https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg)
-![linux](https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg)
+![Skils](https://skillicons.dev/icons?i=python,django,fastapi,docker,sqlite,postgresql,mongodb,git,html,css,bootstrap,github,linux&perline=4)  
 
 ### ⚡ Fun fact:  
 In 2014 I stopped learning programming because I found it too burdensome. But in 2022, while working as an engineer, I hit a plateau and discovered python.
