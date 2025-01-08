@@ -1,27 +1,20 @@
-## Hi there!  I'm Andreii Buha, a developer eager  to innovate and collaborate. 👋
+# Hi there! 👋  
 
-Welcome to my GitHub profile! 🌟
+## I'm Andreii Buha, a developer eager to innovate and collaborate.<br>Welcome to my GitHub profile! 🌟
 
-## Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrii-buha/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](bugandreij@gmail.com)
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/andrii-buha/)
+* [Gmail](bugandreij@gmail.com)
 
-## Skills
+### 🦶🏼 My skills
 
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python)
+![Skils](https://skillicons.dev/icons?i=python,django,fastapi,docker,sqlite,postgresql,mongodb,git,html,css,bootstrap,github&perline=4)  
+![Pandas](https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg)
+![sqlalchemy](https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg)
+![linux](https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap)
-
-#### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=django,flask,fastapi,docker,&perline=)](https://skillicons.dev)
-
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=sqlite,postgresql,mongodb)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,pandas)
+### ⚡ Fun fact:  
+In 2014 I stopped learning programming because I found it too burdensome. But in 2022, while working as an engineer, I hit a plateau and discovered python.
 
 <!--
 **Asbuga/Asbuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
