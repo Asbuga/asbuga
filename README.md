@@ -4,10 +4,10 @@
 
 👯 I’m always open to collaborating on exciting projects and solving challenging problems through programming.  
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-buha/) or via [Gmail](bugandreij@gmail.com).  
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-buha/) or via [Gmail](mailto:bugandreij@gmail.com).  
 
 🦶🏼 **My skills:**  
-![Skills](https://skillicons.dev/icons?i=python,django,fastapi,docker,postgresql,mongodb,git,github,linux,,,&perline=)
+![Skills](https://skillicons.dev/icons?i=python,django,fastapi,docker,postgresql,git,github,linux,,,&perline=)
 
 ⚡ **Fun fact**:  
 In 2014, I stopped learning programming because it felt too burdensome. However, in 2022, while working as an engineer, I hit a plateau and rediscovered my passion for coding with Python.
